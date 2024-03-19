@@ -1,6 +1,3 @@
-
-To access the replication package, please kindly unzip the folder named "icse2023-paper908-replication-pkg.zip".
-
 This replication package contains 5 folders. The majority of the files is data and results generated from the key processes described in the paper. The folders and description of each file are presented below.
 
 == Folder: accepted-paper ==
